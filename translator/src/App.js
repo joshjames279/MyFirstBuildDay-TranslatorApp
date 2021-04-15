@@ -1,14 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
+import Heading from './components/Heading/Heading';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <Heading text="Translator" />
+      
         <img src={logo} className="App-logo" alt="logo" />
         <p>
         </p>
-      </header>
+      
     </div>
   );
 }
