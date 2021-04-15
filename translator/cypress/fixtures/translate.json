@@ -1,0 +1,14 @@
+{
+    "outputs": [
+        {
+            "output": "oui",
+            "stats": {
+                "elapsed_time": 16,
+                "nb_characters": 3,
+                "nb_tokens": 1,
+                "nb_tus": 1,
+                "nb_tus_failed": 0
+            }
+        }
+    ]
+}

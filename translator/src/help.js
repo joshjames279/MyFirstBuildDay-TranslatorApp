@@ -1,0 +1,1 @@
+"https://systran-systran-platform-for-language-processing-v1.p.rapidapi.com/translation/text/translate?source=%7Ben%7D&target=%7Bfe%7D&input=%7Bhello%7D" --header "x-rapidapi-key: 494729773emsh07b4afb8a999679p1c9a12jsne0f2e68d4220" --header "x-rapidapi-host: systran-systran-platform-for-language-processing-v1.p.rapidapi.com"
